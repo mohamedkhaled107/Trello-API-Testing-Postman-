@@ -16,7 +16,6 @@ A comprehensive API Testing project for the **Trello REST API** using **Postman*
 * Assertions
 * How to Run
 * Project Screenshots
-* Future Improvements
 
 
 ---
@@ -53,8 +52,7 @@ The collection includes automated validation scripts, reusable variables, reques
 * ✅ Positive Test Cases
 * ✅ Negative Test Cases
 * ✅ Collection Variables
-* ✅ Environment Variables
-* ✅ Clean Collection Organization
+
 
 ---
 
@@ -115,7 +113,6 @@ Credentials are stored using Postman variables for better security and reusabili
 * ListID
 * CardID
 * ChecklistID
-* CheckItemID
 * apiKey
 * token
 * baseUrl
@@ -184,15 +181,7 @@ Open **Collection Runner** and execute all requests.
 <img width="1027" height="915" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/1aba1c18-2076-4757-9662-f2bae392e3eb" />
 
 
-# 🚀 Future Improvements
 
-* Integrate Newman CLI
-* Add GitHub Actions CI
-* Generate HTML Reports
-* Implement JSON Schema Validation
-* Add Data-Driven Testing
-* Expand Negative Test Coverage
-* Performance Testing
 
 ---
 
