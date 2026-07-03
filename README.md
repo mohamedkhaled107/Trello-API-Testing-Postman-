@@ -159,54 +159,30 @@ Set:
 
 Open **Collection Runner** and execute all requests.
 
----
 
 # 📸 Project Screenshots
 
 ## Test Schedule
 
 
-```
-<img width="361" height="875" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/35ec966a-ae64-4e39-87ef-4237bc9efedd" />
+<img width="361" height="875" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/cd4601c4-f610-43fa-807d-f6333000ee2c" />
 
----
 
-## Collection Structure
-
-```
-<img width="361" height="875" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/bf0e30bc-cb8c-4093-833d-fe899fb55b26" />
-
-```
-
----
-
-## Environment Variables
-
-```
-<img width="361" height="875" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/03397993-ccf5-4167-b7ae-003fec562068" />
-
-```
 
 ## Collection Runner
 
-```
 <img width="1174" height="985" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/fcc5c5fd-b1fa-4e2c-bb82-d986d0ce4ff3" />
 
-```
 
----
 
 ## Test Results
 
 
-```
+
 <img width="1920" height="912" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/c432d50e-32e1-4bb5-8028-3e9d5d22e279" />
 
 <img width="1027" height="915" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/1aba1c18-2076-4757-9662-f2bae392e3eb" />
 
-```
-
----
 
 # 🚀 Future Improvements
 
